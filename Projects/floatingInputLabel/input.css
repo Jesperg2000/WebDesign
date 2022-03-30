@@ -1,5 +1,5 @@
-body{
-    width:30%;
+body {
+    width: 30%;
     margin: 5% 35%;
     text-align: center;
     align-items: center;
@@ -23,7 +23,7 @@ input {
 }
 
 
-input:focus{
+input:focus {
     outline: 1px solid grey;
 }
 
@@ -49,9 +49,3 @@ input:valid ~ label {
     background-color: white;
     padding: 0 4px;
 }
-
-
-
-
-
-
