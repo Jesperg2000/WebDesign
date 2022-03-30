@@ -1,2 +1,2 @@
 # WebDesign
-Small simple web Design Projects
+Small simple web design projects
